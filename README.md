@@ -1,4 +1,4 @@
-# dashboard-enem
+# Projeto Integrado - Tripleten 
 # ENEM Dashboard - Análise 2019
 
 Este aplicativo web é um dashboard interativo desenvolvido com **Streamlit** para explorar os dados do **ENEM 2019** (Exame Nacional do Ensino Médio), uma prova padronizada aplicada no **Brasil** a estudantes que estão concluindo o **ensino médio** (high school).
