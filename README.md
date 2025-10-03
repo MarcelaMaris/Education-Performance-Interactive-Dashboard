@@ -4,7 +4,7 @@ This project explores data from **ENEM 2019**, a national standardized exam take
 Using an **interactive Streamlit dashboard**, it analyzes performance patterns by **gender** and **age group** across multiple subject areas.
 
 🔗 **Live dashboard:** https://dashboard-enem-tvu8.onrender.com  
-💻 **Repository:** https://github.com/MarcelaMaris/dashboard-enem
+💻 **Repository:** [https://github.com/MarcelaMaris/dashboard-enem](https://github.com/MarcelaMaris/Project-5-Tripleten-ENEM-Dashboard)
 
 ---
 
