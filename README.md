@@ -65,9 +65,7 @@ Using an **interactive Streamlit dashboard**, it analyzes performance patterns b
 - **Python**, **Pandas**, **Plotly**, **Streamlit**  
 - Deployment with **Render**
 
----
 
-## 📂 Project Structure
 
 
 
