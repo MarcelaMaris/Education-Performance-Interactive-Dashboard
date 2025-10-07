@@ -1,7 +1,14 @@
-# 📊 ENEM Dashboard – 2019 Analysis
+# 📊 ENEM 2019 — Interactive Dashboard
 
-This project explores data from **ENEM 2019**, a national standardized exam taken by Brazilian students finishing **high school**.  
-Using an **interactive Streamlit dashboard**, it analyzes performance patterns by **gender** and **age group** across multiple subject areas.
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+## 📌 Project Overview
+This project was developed as part of the **Data Analytics Bootcamp at [TripleTen](https://tripleten.com)**.  
+It explores data from **ENEM 2019**, Brazil’s national high school exam, to uncover **performance patterns by gender and age group**.  
+An **interactive Streamlit dashboard** was built to make data exploration intuitive and visually engaging.
+
 
 🔗 **Live dashboard:** https://dashboard-enem-tvu8.onrender.com  
 💻 **Repository:** [https://github.com/MarcelaMaris/dashboard-enem](https://github.com/MarcelaMaris/Project-5-Tripleten-ENEM-Dashboard)
