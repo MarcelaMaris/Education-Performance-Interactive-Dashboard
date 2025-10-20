@@ -1,4 +1,4 @@
-# 📊 ENEM 2019 — Interactive Dashboard
+# 📊 Education Performance - ENEM 2019 — Interactive Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
