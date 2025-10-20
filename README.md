@@ -60,6 +60,26 @@ An **interactive Streamlit dashboard** was built to make data exploration intuit
 
 ---
 
+### 🧩 Educational Impact & Key Metrics
+
+This analysis highlights key patterns in Brazil’s national exam (ENEM 2019), offering actionable insights for educational policy and teaching strategies.
+
+**Educational Impact:**
+
+* Identifies **age and gender disparities** in student performance, supporting targeted interventions.
+* Informs **curriculum design and mentoring programs** for students over 25 and for females in STEM areas.
+* Demonstrates how **interactive dashboards** can democratize access to educational analytics.
+
+**Key Performance Indicators (KPIs):**
+
+| KPI                                  | Description                                        | Insight                                                       |
+| ------------------------------------ | -------------------------------------------------- | ------------------------------------------------------------- |
+| 🧮 **Average Score by Subject**      | Mean ENEM score per subject and gender             | Reveals small but consistent gender gaps in Math and Language |
+| 🎓 **Top 10% Performance Age Range** | Age group with highest concentration of top scores | Ages **15–20** perform best across all subjects               |
+| 📉 **Score Drop-off After Age 25**   | % decrease in average scores for older candidates  | ~15–20% lower average compared to younger participants        |
+| ⚖️ **Gender Performance Gap**        | Difference in median scores (Math vs Language)     | Males +10 in Math, Females +12 in Language                    |
+
+---
 ## 📝 Recommendations
 - **Targeted support for older candidates (25+)** focusing on content review and test strategies.  
 - **Math mentorship for female students** to address small performance gaps.  
