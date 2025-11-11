@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="cover_education.png" width="100%" alt="E-Commerce Analytics Dashboard cover">
+</p>
+
+
 # 📊 Education Performance - ENEM 2019 — Interactive Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
